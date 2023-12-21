@@ -10,3 +10,9 @@ body {
 header, footer {
     background-color: #1F2937;
 }
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0;
+}
